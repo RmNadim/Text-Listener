@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 ###################################################################################
 #TextListener
-#Takes a picture of a page of printed text, performs Optical Character Recognition (ORC) 
+#Takes a picture of a page of printed text, performs Optical Character Recognition (OCR) 
 #on the image and save as text file then the file is synthesised by Text To Speech (TTS) reads it aloud.
 #
 #
